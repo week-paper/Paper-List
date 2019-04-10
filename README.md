@@ -7,4 +7,5 @@
   - [A fast learning algorithm for deep belief nets](https://github.com/week-paper/Paper-List/blob/master/Week-1/yujunshuai/A%20fast%20learning%20algorithm%20for%20deep%20belief%20nets.pdf)
 - idejie
   - [Training Classifiers with Natural Language Explanations](https://aclweb.org/anthology/P18-1175)
-  
+- 李哲舟
+  - [RePr: Improved Training of Convolutional Filters](https://arxiv.org/pdf/1811.07275v3.pdf)  
