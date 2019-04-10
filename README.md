@@ -15,3 +15,5 @@
 ## 第一周
 - 张路
   - [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf)
+- 于军帅
+  - ![A fast learning algorithm for deep belief nets](https://github.com/week-paper/Week-1/yujunshuai/A fast learning algorithm for deep belief nets.pdf)
