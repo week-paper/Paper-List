@@ -14,3 +14,7 @@
 - 李亮
   - [Disconnected Recurrent Neural Networks for Text Categorization](https://www.aclweb.org/anthology/P18-1215)
   
+## 第二周
+- 于军帅
+  - [Representer Point Selection for Explaining Deep Neural Networks](http://papers.nips.cc/paper/8141-representer-point-selection-for-explaining-deep-neural-networks.pdf)
+  - 
