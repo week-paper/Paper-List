@@ -19,3 +19,5 @@
   - [Representer Point Selection for Explaining Deep Neural Networks](http://papers.nips.cc/paper/8141-representer-point-selection-for-explaining-deep-neural-networks.pdf)
 - 杨德杰
   - [Reading Wikipedia to Answer Open-Domain Questions](https://cs.stanford.edu/~danqi/papers/acl2017.pdf)
+- 张家瑞
+  - [Competence-based Curriculum Learning for Neural Machine Translation](https://arxiv.org/abs/1903.09848)
