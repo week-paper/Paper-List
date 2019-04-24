@@ -1,8 +1,8 @@
 # Paper List
 
 ## 第一周
-- 张路
-  - [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf)
+- ~~张路~~
+  - ~~[BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf)~~
 - 于军帅
   - [Drop an Octave: Reducing Spatial Redundancy in Convolutional Neural Networks with Octave Convolution](https://export.arxiv.org/pdf/1904.05049)
 - 杨德杰
@@ -17,4 +17,5 @@
 ## 第二周
 - 于军帅
   - [Representer Point Selection for Explaining Deep Neural Networks](http://papers.nips.cc/paper/8141-representer-point-selection-for-explaining-deep-neural-networks.pdf)
-  - 
+- 杨德杰
+  - [Reading Wikipedia to Answer Open-Domain Questions](https://cs.stanford.edu/~danqi/papers/acl2017.pdf)
