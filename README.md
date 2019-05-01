@@ -21,3 +21,5 @@
   - [Reading Wikipedia to Answer Open-Domain Questions](https://cs.stanford.edu/~danqi/papers/acl2017.pdf)
 - 张家瑞
   - [Competence-based Curriculum Learning for Neural Machine Translation](https://arxiv.org/abs/1903.09848)
+- 李亮
+  - [Selective Encoding for Abstractive Sentence Summarization](https://arxiv.org/abs/1704.07073)
