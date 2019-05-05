@@ -25,3 +25,9 @@
   - [Selective Encoding for Abstractive Sentence Summarization](https://arxiv.org/abs/1704.07073)
 - 李哲舟
   - [Learning without Forgetting](https://arxiv.org/pdf/1606.09282.pdf)
+
+## 第三周
+
+- 杨德杰
+  - [CoQA: A Conversational Question Answering Challenge](https://arxiv.org/pdf/1808.07042.pdf)
+
