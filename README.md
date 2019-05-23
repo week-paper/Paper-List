@@ -30,4 +30,6 @@
 
 - 杨德杰
   - [CoQA: A Conversational Question Answering Challenge](https://arxiv.org/pdf/1808.07042.pdf)
+- 李亮
+  - [A Deep Reinforced Model for Abstractive Summarization](https://arxiv.org/pdf/1705.04304.pdf)
 
