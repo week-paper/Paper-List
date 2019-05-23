@@ -36,3 +36,4 @@
 - 杨德杰
   - [Multimodal Affective Analysis Using Hierarchical Attention Strategy with Word-Level Alignment](https://www.aclweb.org/anthology/P18-1207)
   - [Convolutional Attention Networks for Multimodal Emotion Recognition from Speech and Text Data](https://www.aclweb.org/anthology/W18-3304)
+  - [Chat More: Deepening and Widening the Chatting Topic via A Deep Model](http://coai.cs.tsinghua.edu.cn/hml/media/files/2018SIGIR_Wangwenjie.pdf)
