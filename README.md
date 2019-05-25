@@ -16,5 +16,4 @@
   
 ## 第二周
 - 于军帅
-  - [Representer Point Selection for Explaining Deep Neural Networks](http://papers.nips.cc/paper/8141-representer-point-selection-for-explaining-deep-neural-networks.pdf)
-  - 
+  - [Star Transformers](https://arxiv.org/abs/1902.09113)
