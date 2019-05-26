@@ -37,5 +37,4 @@
 ## 第四周
 - 杨德杰
   - [Multimodal Affective Analysis Using Hierarchical Attention Strategy with Word-Level Alignment](https://www.aclweb.org/anthology/P18-1207)
-  - [Convolutional Attention Networks for Multimodal Emotion Recognition from Speech and Text Data](https://www.aclweb.org/anthology/W18-3304)
 
