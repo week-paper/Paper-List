@@ -42,7 +42,7 @@
    - [An Attentive Survey of Attention Models](https://arxiv.org/pdf/1904.02874.pdf)
 ## 第六周
  - 杨德杰
-   - [Attention Is all you needed](https://arxiv.org/pdf/1706.03762.pdf)
+   - [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)
    - [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf)
    - [EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks](https://arxiv.org/pdf/1905.11946.pdf)
 
