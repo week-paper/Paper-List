@@ -44,6 +44,8 @@
 ## 第五周
  - 杨德杰
    - [An Attentive Survey of Attention Models](https://arxiv.org/pdf/1904.02874.pdf)
+ - 张家瑞
+   - [Ordered Neurons Integrating Tree Structures into Recurrent Neural Networks](https://arxiv.org/abs/1810.09536?context=cs)
 ## 第六周
  - 杨德杰
    - [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)
