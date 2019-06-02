@@ -1,4 +1,5 @@
 # Paper List
+> **[“游戏规则”(Our Terms)](https://github.com/Week-Paper/Paper-List/issues/3#issuecomment-497997783)**
 
 ## 第一周
 - ~~张路~~
