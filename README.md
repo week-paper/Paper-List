@@ -39,6 +39,8 @@
 ## 第四周
 - 杨德杰
   - [Multimodal Affective Analysis Using Hierarchical Attention Strategy with Word-Level Alignment](https://www.aclweb.org/anthology/P18-1207)
+- 张家瑞
+  - [Learning a Wavelet-like Auto-Encoder to Accelerate Deep Neural Networks](https://arxiv.org/abs/1712.07493)
 ## 第五周
  - 杨德杰
    - [An Attentive Survey of Attention Models](https://arxiv.org/pdf/1904.02874.pdf)
