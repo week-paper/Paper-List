@@ -34,6 +34,8 @@
   - [A Deep Reinforced Model for Abstractive Summarization](https://arxiv.org/pdf/1705.04304.pdf)
 - 李哲舟
   - [Chat More: Deepening and Widening the Chatting Topic via A Deep Model](http://coai.cs.tsinghua.edu.cn/hml/media/files/2018SIGIR_Wangwenjie.pdf)  
+- 张家瑞
+  - [An Attentive Survey of Attention Models](https://arxiv.org/abs/1904.02874?context=cs)
 ## 第四周
 - 杨德杰
   - [Multimodal Affective Analysis Using Hierarchical Attention Strategy with Word-Level Alignment](https://www.aclweb.org/anthology/P18-1207)
